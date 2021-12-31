@@ -1,0 +1,3 @@
+Avery|1
+Dialga|Steel/Dragon|100
+end file
