@@ -1,0 +1,69 @@
+Final|67
+A derived class inheriting class members from two or more base classes|multiple inheritance
+Specifying a general interface while hiding implementation details|abstraction
+A special class member that creates and initializes an object from the class|constructor
+A named scope|namespace
+A data type that includes a fixed set of constant values called enumerators|enumerated type
+A variable declared in a narrower scope than that of a variable of the same name declared in a broader scope|shadowing
+An expression that, if false, indicates a program error|assertion
+An instance of a class containing a set of encapsulated data and associated methods|object
+A declaration that also fully specifies the entity declared|definition
+A data type that can typically be handled directly by the underlying hardware|primitive type
+A style of programming focused on the use of classes and class hierarchies|oop
+A method that changes the value of a private variable|setter
+An object created to represent an error or other unusual occurrence and then propagated via special mechanisms until caught by special handling code|exception
+The class from which members are inherited|superclass
+A template encapsulating data and code that manipulates it|class
+The provision of a single interface to multiple derived classes, enabling the same method call to invoke different derived methods to generate different results|Polymorphism
+Reuse and extension of fields and method implementations from another class|Inheritance
+Bundling data and code into a restricted container|Encapsulation
+a reference type containing only constants, method signatures, default methods, static methods, and nested types|Interface
+An encapsulated bundle of data and code (e.g., an instance of a program is a process; an instance of a class is an object)|Instance
+An instance of a class containing a set of encapsulated data and associated methods|Object
+A block of memory associated with a symbolic name that contains a primitive data value or the address of an object instance|Variable
+A short string representing a mathematical, logical, or machine control action|Operator
+A managed memory technique that tracks the number of references to allocated memory, so that the memory can be freed when the count reaches zero|Refrence Counter
+In program that runs in managed memory systems to free unreferenced memory|Garbage Collector
+A class member variable (also called a "field")|Attribute
+A special class member that cleans up when an object is deleted (not supported by Java)|Destructor
+A function that manipulates data in a class|Method
+A method that returns the value of a private variable|Getter
+The class from which members are inherited|Superclass
+The class inheriting members|Subclass
+A class that cannot be instantiated|Abstract Class
+A method declared with no implementation|Abstract Method
+A subclass replacing its superclass’ implementation of a method|Override
+A grouping of related types providing access protection and namespace management|Package
+A statement that introduces a name with an associated type into a scope|Declaration
+A declaration that also fully specifies the entity declared|Definition
+Scratch memory for a thread of execution (in Java, e.g., int i=5;)|Stack
+Memory shared by all threads of execution for dynamic allocation (in Java e.g., Foo f = new Foo();)|Heap
+Memory for declarations outside of any class or function scope|Global
+Read-only memory for machine instructions|Code
+A procedure for solving a specific problem, expressed in terms of an ordered set of actions to execute|Algorithm
+A Java construct representing a method or class in terms of generic types|Generic
+Writing algorithms in terms of types that are specified as parameters during instantiation or invocation|Generic Programming
+A standard library abstraction for objects referring to elements of a container|Iterator
+Performing 2 or more algorithms (as it were) simultaneously|Concurrency
+A self-contained execution environment including its own memory space|Process
+An independent path of execution within a process, running concurrently (as it appears) with other threads within a shared memory space|Thread
+An algorithm that can be paused while executing, and then safely executed by a different thread|Reentrant
+(contraction of "mutual exclusion") An object that prevents two properly written threads from concurrently accessing a shared resource|Mutex
+The ability to control the access of multiple threads to any shared resource|Synchronized
+Code for which specified assertions are guaranteed to be true (often, a class in which attributes cannot change after instantiation)|Invariant
+Ensuring that a program operates on clean, correct and useful data|Data Validation
+Algorithmically enforceable constraints on the correctness, meaningfulness, and security of input data|Validation Rules
+The task of keeping a system consisting of many versions well organized|Version Control
+A second distinct development path within the same organization and often within the same version control system|Branch
+A second distinct and independent development path undertaken (often by a different organization) to create a unique product|Fork
+A reference point in a version control system, using indicating completion and approval of a product release and sometimes used to support a fork|Baseline
+The standard visual modeling language used to describe, specify, design, and document the structure and behavior of object-oriented systems|Unified Modeling Language (UML)
+Prioritizing individuals and interactions, frequent delivery of working software, customer collaboration, and flexible response to change|Agile Process
+Separating software development into long, discrete phases such as Requirements, Design, Implementation, Verification, and Validation|Waterfall Process
+Defines the inheritance relationships between a set of classes|Class Hierarchy
+A collection of classes designed to be used together efficiently|Class Library
+The process of extracting shared characteristics from two or more classes, and combining them into a generalized base class.|Generalization
+The process of identifying and specifying subclasses from a base class.|Specialization
+A user interface component should behave as the users expect it to behave|Principle of Least  Astonishment
+The common mistake of attempting to include far too many features in (typcially) version 2.0, causing catastrophic schedule slips|Second System Effect
+end file

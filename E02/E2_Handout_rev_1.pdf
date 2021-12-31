@@ -1,0 +1,4318 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 67 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 68 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 69 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 70 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Contents 71 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Contents 72 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 73 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Contents 74 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+13 0 obj
+<<
+/Contents 75 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Contents 76 0 R /MediaBox [ 0 0 612 792 ] /Parent 66 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+15 0 obj
+<<
+/Outlines 17 0 R /PageLabels 77 0 R /PageMode /UseNone /Pages 66 0 R /Type /Catalog
+>>
+endobj
+16 0 obj
+<<
+/Author () /CreationDate (D:20211026165214+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20211026165214+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (CSE 1325 OBJECT-ORIENTED PROGRAMMING) /Trapped /False
+>>
+endobj
+17 0 obj
+<<
+/Count 54 /First 18 0 R /Last 56 0 R /Type /Outlines
+>>
+endobj
+18 0 obj
+<<
+/Count 4 /Dest [ 4 0 R /XYZ 62.69291 627.1339 0 ] /First 19 0 R /Last 22 0 R /Next 23 0 R /Parent 17 0 R 
+  /Title (Superclasses)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 594.1339 0 ] /Next 20 0 R /Parent 18 0 R /Title (Component)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 494.1339 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Container extends Component)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 363.1339 0 ] /Next 22 0 R /Parent 18 0 R /Prev 20 0 R /Title (JComponent extends Container)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 715.1339 0 ] /Parent 18 0 R /Prev 21 0 R /Title (Window extends Container)
+>>
+endobj
+23 0 obj
+<<
+/Count 3 /Dest [ 5 0 R /XYZ 62.69291 661.1339 0 ] /First 24 0 R /Last 26 0 R /Next 27 0 R /Parent 17 0 R 
+  /Prev 18 0 R /Title (Primary Containers)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 628.1339 0 ] /Next 25 0 R /Parent 23 0 R /Title (JFrame extends Window)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 463.1339 0 ] /Next 26 0 R /Parent 23 0 R /Prev 24 0 R /Title (JDialog extends Window)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 360.1339 0 ] /Parent 23 0 R /Prev 25 0 R /Title (JPanel extends JComponent)
+>>
+endobj
+27 0 obj
+<<
+/Count 9 /Dest [ 5 0 R /XYZ 62.69291 306.1339 0 ] /First 28 0 R /Last 36 0 R /Next 37 0 R /Parent 17 0 R 
+  /Prev 23 0 R /Title (Layout Managers)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 273.1339 0 ] /Next 29 0 R /Parent 27 0 R /Title (BorderLayout)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 195.1339 0 ] /Next 30 0 R /Parent 27 0 R /Prev 28 0 R /Title (BoxLayout)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 715.1339 0 ] /Next 31 0 R /Parent 27 0 R /Prev 29 0 R /Title (FlowLayout)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 637.1339 0 ] /Next 32 0 R /Parent 27 0 R /Prev 30 0 R /Title (GridLayout)
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 583.1339 0 ] /Next 33 0 R /Parent 27 0 R /Prev 31 0 R /Title (GridBagLayout)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 498.1339 0 ] /Next 34 0 R /Parent 27 0 R /Prev 32 0 R /Title (GridBagConstraints)
+>>
+endobj
+34 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 715.1339 0 ] /Next 35 0 R /Parent 27 0 R /Prev 33 0 R /Title (JOptionPane)
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 337.1339 0 ] /Next 36 0 R /Parent 27 0 R /Prev 34 0 R /Title (JFileChooser)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 122.1339 0 ] /Parent 27 0 R /Prev 35 0 R /Title (FileNameExtensionFilter extends FileFilter)
+>>
+endobj
+37 0 obj
+<<
+/Count 5 /Dest [ 9 0 R /XYZ 62.69291 715.1339 0 ] /First 38 0 R /Last 42 0 R /Next 43 0 R /Parent 17 0 R 
+  /Prev 27 0 R /Title (Main Window Widgets)
+>>
+endobj
+38 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 664.1339 0 ] /Next 39 0 R /Parent 37 0 R /Title (JMenuBar)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 573.1339 0 ] /Next 40 0 R /Parent 37 0 R /Prev 38 0 R /Title (JMenu)
+>>
+endobj
+40 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 482.1339 0 ] /Next 41 0 R /Parent 37 0 R /Prev 39 0 R /Title (JMenuItem)
+>>
+endobj
+41 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 391.1339 0 ] /Next 42 0 R /Parent 37 0 R /Prev 40 0 R /Title (JToolBar)
+>>
+endobj
+42 0 obj
+<<
+/Dest [ 9 0 R /XYZ 62.69291 300.1339 0 ] /Parent 37 0 R /Prev 41 0 R /Title (JButton)
+>>
+endobj
+43 0 obj
+<<
+/Count 12 /Dest [ 10 0 R /XYZ 62.69291 715.1339 0 ] /First 44 0 R /Last 55 0 R /Next 56 0 R /Parent 17 0 R 
+  /Prev 37 0 R /Title (Other Widgets)
+>>
+endobj
+44 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 664.1339 0 ] /Next 45 0 R /Parent 43 0 R /Title (AbstractButton)
+>>
+endobj
+45 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 533.1339 0 ] /Next 46 0 R /Parent 43 0 R /Prev 44 0 R /Title (JButton extends AbstractButton)
+>>
+endobj
+46 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 479.1339 0 ] /Next 47 0 R /Parent 43 0 R /Prev 45 0 R /Title (JCheckBox extends AbstractButton)
+>>
+endobj
+47 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 425.1339 0 ] /Next 48 0 R /Parent 43 0 R /Prev 46 0 R /Title (JComboBox)
+>>
+endobj
+48 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 715.1339 0 ] /Next 49 0 R /Parent 43 0 R /Prev 47 0 R /Title (JLabel)
+>>
+endobj
+49 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 516.1339 0 ] /Next 50 0 R /Parent 43 0 R /Prev 48 0 R /Title (JProgressBar)
+>>
+endobj
+50 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 348.1339 0 ] /Next 51 0 R /Parent 43 0 R /Prev 49 0 R /Title (JRadioButton extends AbstractButton)
+>>
+endobj
+51 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 294.1339 0 ] /Next 52 0 R /Parent 43 0 R /Prev 50 0 R /Title (JSlider)
+>>
+endobj
+52 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 715.1339 0 ] /Next 53 0 R /Parent 43 0 R /Prev 51 0 R /Title (JSpinner)
+>>
+endobj
+53 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 562.1339 0 ] /Next 54 0 R /Parent 43 0 R /Prev 52 0 R /Title (JSpinnerModel)
+>>
+endobj
+54 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 490.1339 0 ] /Next 55 0 R /Parent 43 0 R /Prev 53 0 R /Title (JTextField)
+>>
+endobj
+55 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 337.1339 0 ] /Parent 43 0 R /Prev 54 0 R /Title (JToggleButton extends AbstractButton)
+>>
+endobj
+56 0 obj
+<<
+/Count 9 /Dest [ 13 0 R /XYZ 62.69291 715.1339 0 ] /First 57 0 R /Last 65 0 R /Parent 17 0 R /Prev 43 0 R 
+  /Title (Other Classes)
+>>
+endobj
+57 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 682.1339 0 ] /Next 58 0 R /Parent 56 0 R /Title (Graphics2D extends Graphics)
+>>
+endobj
+58 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 353.1339 0 ] /Next 59 0 R /Parent 56 0 R /Prev 57 0 R /Title (Color)
+>>
+endobj
+59 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 196.1339 0 ] /Next 60 0 R /Parent 56 0 R /Prev 58 0 R /Title (Dimension)
+>>
+endobj
+60 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 715.1339 0 ] /Next 61 0 R /Parent 56 0 R /Prev 59 0 R /Title (ImageIcon implements Icon)
+>>
+endobj
+61 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 661.1339 0 ] /Next 62 0 R /Parent 56 0 R /Prev 60 0 R /Title (Interface ActionListener)
+>>
+endobj
+62 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 592.1339 0 ] /Next 63 0 R /Parent 56 0 R /Prev 61 0 R /Title (ActionEvent)
+>>
+endobj
+63 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 480.1339 0 ] /Next 64 0 R /Parent 56 0 R /Prev 62 0 R /Title (Interface ChangeListener)
+>>
+endobj
+64 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 411.1339 0 ] /Next 65 0 R /Parent 56 0 R /Prev 63 0 R /Title (ChangeEvent)
+>>
+endobj
+65 0 obj
+<<
+/Dest [ 14 0 R /XYZ 62.69291 342.1339 0 ] /Parent 56 0 R /Prev 64 0 R /Title (Rectangle)
+>>
+endobj
+66 0 obj
+<<
+/Count 10 /Kids [ 4 0 R 5 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R ] /Type /Pages
+>>
+endobj
+67 0 obj
+<<
+/Length 5624
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 691.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 18.27709 0 Td (CSE 1325 OBJECT-ORIENTED PROGRAMMING) Tj T* -18.27709 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 669.1339 cm
+q
+BT 1 0 0 1 0 2 Tm 139.6471 0 Td 12 TL /F2 10 Tf 0 0 0 rg (Exam #2 \226=# HANDOUT Rev 1 #=\226 Fall 2021) Tj T* -139.6471 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 639.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.818561 Tw (Note: "extends" in this document includes multi-generational inheritance: Superclass members are also) Tj T* 0 Tw (available to the subclass. Square brackets [ ] denote optional parameters via overloaded members.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Superclasses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 564.1339 cm
+Q
+q
+1 0 0 1 62.69291 506.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Rectangle getBounds\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Gets the bounds of this component in the form of a Rectangle object.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void repaint\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Repaints this component at the earliest opportunity.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 506.1339 cm
+Q
+q
+1 0 0 1 62.69291 476.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Container extends Component) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.1339 cm
+Q
+q
+1 0 0 1 62.69291 375.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Component add\(Component comp, [int index]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Appends the specified component at the given position or end of the container.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void add\(Component comp, Object constraints, [int index]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds the specified component with constraints at the given position or end of the container.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setLayout\(LayoutManager manager\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the LayoutManager.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 375.1339 cm
+Q
+q
+1 0 0 1 62.69291 345.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JComponent extends Container) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.1339 cm
+Q
+q
+1 0 0 1 62.69291 120.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void paintComponent\(Graphics g\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 186 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Calls the UI delegate's paint method, if the UI delegate is non-null.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 170 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setBackground\(Color bg\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 155 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the background color of this component.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setBorder\(Border border\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 124 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the border of this component.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setEnabled\(boolean enabled\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets whether or not this component is enabled.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setForeground\(Color fg\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the foreground color of this component.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setToolTipText\(String text\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Registers the text to display in a tool tip.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setVisible\(boolean aFlag\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Makes the component visible or invisible.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 120.1339 cm
+Q
+q
+1 0 0 1 62.69291 120.1339 cm
+Q
+ 
+endstream
+endobj
+68 0 obj
+<<
+/Length 4968
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Window extends Container) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 673.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (void setSize\(int width, int height\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 673.1339 cm
+Q
+q
+1 0 0 1 62.69291 640.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Primary Containers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 610.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JFrame extends Window) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 598.1339 cm
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 117 cm
+Q
+q
+1 0 0 1 20 105 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JFrame\(String title\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 105 cm
+Q
+q
+1 0 0 1 20 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Container getContentPane\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 74 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the contentPane object for this frame.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setDefaultCloseOperation\(int operation\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.665261 Tw (Sets the operation that will happen by default when the user initiates a "close" on this frame) Tj T* 0 Tw (\(DISPOSE_ON_CLOSE, DO_NOTHING_ON_CLOSE, EXIT_ON_CLOSE, HIDE_ON_CLOSE\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setJMenuBar\(JMenuBar menubar\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the menubar for this frame.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 475.1339 cm
+Q
+q
+1 0 0 1 62.69291 445.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JDialog extends Window) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.1339 cm
+Q
+q
+1 0 0 1 62.69291 372.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 55 cm
+Q
+q
+1 0 0 1 20 43 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JDialog\(Frame owner, String title\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setDefaultCloseOperation\(int operation\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.595261 Tw (Sets the operation that will happen by default when the user initiates a "close" on this dialog) Tj T* 0 Tw (\(DISPOSE_ON_CLOSE, DO_NOTHING_ON_CLOSE, EXIT_ON_CLOSE, HIDE_ON_CLOSE\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 372.1339 cm
+Q
+q
+1 0 0 1 62.69291 342.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JPanel extends JComponent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 330.1339 cm
+Q
+q
+1 0 0 1 62.69291 318.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JPanel\(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 318.1339 cm
+Q
+q
+1 0 0 1 62.69291 285.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Layout Managers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 255.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (BorderLayout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.1339 cm
+Q
+q
+1 0 0 1 62.69291 207.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (BorderLayout\([int hgap, int vgap]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Constraints: PAGE_START, PAGE_END, LINE_START, LINE_END, CENTER) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 207.1339 cm
+Q
+q
+1 0 0 1 62.69291 177.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (BoxLayout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 165.1339 cm
+Q
+q
+1 0 0 1 62.69291 129.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (BoxLayout\(Container target, int axis\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Axis: LINE_AXIS, PAGE_AXIS, X_AXIS, Y_AXIS) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 129.1339 cm
+Q
+q
+1 0 0 1 62.69291 129.1339 cm
+Q
+ 
+endstream
+endobj
+69 0 obj
+<<
+/Length 5599
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (FlowLayout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 649.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (FlowLayout\([int align, [int hgap, int vgap]]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 18 cm
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Align: CENTER, LEFT, RIGHT, LEADNG, TRAILING) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 649.1339 cm
+Q
+q
+1 0 0 1 62.69291 619.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (GridLayout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 607.1339 cm
+Q
+q
+1 0 0 1 62.69291 595.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (GridLayout\([int rows, int cols, [int hgap, int vgap]]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 595.1339 cm
+Q
+q
+1 0 0 1 62.69291 565.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (GridBagLayout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 553.1339 cm
+Q
+q
+1 0 0 1 62.69291 510.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (GridBagLayout\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setConstraints\(Component comp, GridBagConstraints constraints\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the constraints for the specified component in this layout.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 510.1339 cm
+Q
+q
+1 0 0 1 62.69291 480.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (GridBagConstraints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 468.1339 cm
+Q
+q
+1 0 0 1 62.69291 137.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 325 cm
+Q
+q
+1 0 0 1 20 313 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (GridBagConstraints\(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 313 cm
+Q
+q
+1 0 0 1 20 297 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int anchor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 258 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.544925 Tw (Determines where, within the display area, to place the component: PAGE_START, PAGE_END,) Tj T* 0 Tw 10.65354 Tw (LINE_START, LINE_END, FIRST_LINE_START, FIRST_LINE_END, LAST_LINE_START,) Tj T* 0 Tw (LAST_LINE_END) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 242 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int fill) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 227 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Determines how to resize the component: NONE, HORIZONTAL, VERTICAL, BOTH) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int gridheight, gridwidth) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 184 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .932278 Tw (Specifies the number of cells in a row and column for the component's display area. REMAINDER) Tj T* 0 Tw (means use all remaining cells. RELATIVE means use all remaining cells except one.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Insets insets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 129 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 26 Tm 2.757244 Tw 12 TL /F1 10 Tf 0 0 0 rg (Specifies the external padding of the component, the minimum amount of space between the) Tj T* 0 Tw 10.12118 Tw (component and the edges of its display area. The constructor for Insets is) Tj T* 0 Tw /F3 10 Tf (Insets\(int) Tj ( ) Tj (top,) Tj ( ) Tj (int) Tj ( ) Tj (left,) Tj ( ) Tj (int) Tj ( ) Tj (bottom,) Tj ( ) Tj (int) Tj ( ) Tj (right\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int ipadx, ipady) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 86 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.049166 Tw (Specifies the internal padding of the component, how much space to add to the minimum width of the) Tj T* 0 Tw (component.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (double gridx, gridy) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL -0.128578 Tw (Specifies the cell containing the leading edge of the component's display area, where the first cell in a) Tj T* 0 Tw -0.051614 Tw (row has gridx=0 and in a column has gridy=0. RELATIVE specifies that the component be placed just) Tj T* 0 Tw (below the component that was added to the container just before this component was added.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (double weightx, weighty) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Specifies how to distribute extra horizontal and vertical space.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 137.1339 cm
+Q
+q
+1 0 0 1 62.69291 137.1339 cm
+Q
+ 
+endstream
+endobj
+70 0 obj
+<<
+/Length 6384
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JOptionPane) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 349.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 324 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (optionType:) Tj /F1 10 Tf ( YES_NO_CANCEL_OPTION, YES_NO_OPTION, OK_CANCEL_OPTION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 294 cm
+q
+BT 1 0 0 1 0 14 Tm 21.42472 Tw 12 TL /F2 10 Tf 0 0 0 rg (messageType:) Tj /F1 10 Tf ( PLAIN_MESSAGE, INFORMATION_MESSAGE, QUESTION_MESSAGE,) Tj T* 0 Tw (WARNING_MESSAGE, ERROR_MESSAGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 266 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static int showConfirmDialog\(Component parentComponent, Object message, [String title, int) Tj T* (optionType, [int messageType, [Icon icon]]]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 239 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.971511 Tw (Brings up a dialog with a specified icon, where the number of choices is determined by the) Tj T* 0 Tw (optionType parameter.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 211 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static String showInputDialog\(Component parentComponent, Object message[, Object) Tj T* (initialSelectionValue]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 196 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Shows a question-message dialog requesting input from the user and parented to parentComponent.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 168 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static String showInputDialog\(Component parentComponent, Object message, String title, int) Tj T* (messageType\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 141 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .575298 Tw (Shows a dialog requesting input from the user parented to parentComponent with the dialog having) Tj T* 0 Tw (the title title and message type messageType.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 113 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static Object showInputDialog\(Component parentComponent, Object message, String title, int) Tj T* (messageType, Icon icon, Object[] selectionValues, Object initialSelectionValue\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 98 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Prompts the user for input in a blocking dialog where all options can be specified.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 70 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static void showMessageDialog\(Component parentComponent, Object message, [String title, int) Tj T* (messageType, [Icon icon]]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 55 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Brings up a dialog displaying a message, specifying all parameters.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F2 10 Tf 12 TL (static int showOptionDialog\(Component parentComponent, Object message, String title, int) Tj T* (optionType, int messageType, Icon icon, Object[] options, Object initialValue\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.478386 Tw (Brings up a dialog with a specified icon, where the initial choice is determined by the initialValue) Tj T* 0 Tw (parameter and the number of choices is determined by the optionType parameter.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 349.1339 cm
+Q
+q
+1 0 0 1 62.69291 319.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JFileChooser) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.1339 cm
+Q
+q
+1 0 0 1 62.69291 134.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 167 cm
+Q
+q
+1 0 0 1 20 155 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JFileChooser\([String currentDirectoryPath]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 155 cm
+Q
+q
+1 0 0 1 20 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addChoosableFileFilter\(FileFilter filter\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 124 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds a filter to the list of user choosable file filters.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (File getSelectedFile\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the selected file.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setFileFilter\(FileFilter filter\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the current file filter.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int showOpenDialog\(Component parent\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pops up an "Open File" file chooser dialog.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int showSaveDialog\(Component parent\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Pops up a "Save File" file chooser dialog.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 134.1339 cm
+Q
+q
+1 0 0 1 62.69291 104.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (FileNameExtensionFilter extends FileFilter) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 92.13386 cm
+Q
+q
+1 0 0 1 62.69291 80.13386 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (FileNameExtensionFilter\(String description, String... extensions\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 80.13386 cm
+Q
+q
+1 0 0 1 62.69291 80.13386 cm
+Q
+ 
+endstream
+endobj
+71 0 obj
+<<
+/Length 3785
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Main Window Widgets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 676.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Note: ALL widgets extend JComponent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JMenuBar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+Q
+q
+1 0 0 1 62.69291 585.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JMenuBar\(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 31 cm
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JMenu add\(JMenu c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Appends the specified menu to the end of the menu bar.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 585.1339 cm
+Q
+q
+1 0 0 1 62.69291 555.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JMenu) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.1339 cm
+Q
+q
+1 0 0 1 62.69291 494.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JMenu\(String s\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 31 cm
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JMenuItem add\(JMenuItem menuItem\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Appends a menu item to the end of this menu.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 494.1339 cm
+Q
+q
+1 0 0 1 62.69291 464.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JMenuItem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.1339 cm
+Q
+q
+1 0 0 1 62.69291 403.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JMenuItem\(String text, [Icon icon]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 31 cm
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addActionListener\(ActionListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an ActionListener to the widget.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 403.1339 cm
+Q
+q
+1 0 0 1 62.69291 373.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JToolBar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.1339 cm
+Q
+q
+1 0 0 1 62.69291 312.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JToolBar\(\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 31 cm
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addSeparator\([Dimension size]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Appends a separator of a specified size to the end of the tool bar.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 312.1339 cm
+Q
+q
+1 0 0 1 62.69291 282.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (See Other Widgets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.1339 cm
+Q
+ 
+endstream
+endobj
+72 0 obj
+<<
+/Length 5701
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Other Widgets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 676.1339 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Note: ALL widgets extend JComponent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 646.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (AbstractButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 634.1339 cm
+Q
+q
+1 0 0 1 62.69291 545.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addActionListener\(ActionListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an ActionListener to the widget.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (boolean isSelected\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the state of the button.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setSelected\(boolean b\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the state of the button.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 545.1339 cm
+Q
+q
+1 0 0 1 62.69291 515.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JButton extends AbstractButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 503.1339 cm
+Q
+q
+1 0 0 1 62.69291 491.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JButton\([String text], [Icon icon]]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 491.1339 cm
+Q
+q
+1 0 0 1 62.69291 461.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JCheckBox extends AbstractButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.1339 cm
+Q
+q
+1 0 0 1 62.69291 437.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JCheckBox\([String text], [Icon icon], [boolean selected]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 437.1339 cm
+Q
+q
+1 0 0 1 62.69291 407.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JComboBox) Tj (<) Tj (E) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.1339 cm
+Q
+q
+1 0 0 1 62.69291 98.13386 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 291 cm
+Q
+q
+1 0 0 1 20 279 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JComboBox\(E[] items\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 279 cm
+Q
+q
+1 0 0 1 20 263 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addActionListener\(ActionListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 248 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an ActionListener to the widget.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 232 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addItem\(E item\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 217 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an item to the item list.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 201 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (E getItemAt\(int index\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 186 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the list item at the specified index.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 170 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int getItemCount\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 155 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the number of items in the list.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int getSelectedIndex\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 124 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the first item in the list that matches the given item.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Object getSelectedItem\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the current selected item.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setEditable\(boolean aFlag\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Determines whether the JComboBox field is editable.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setSelectedIndex\(int anIndex\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Selects the item at index anIndex.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setSelectedItem\(Object anObject\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the selected item in the combo box display area to the object in the argument.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 98.13386 cm
+Q
+ 
+endstream
+endobj
+73 0 obj
+<<
+/Length 5669
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JLabel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 528.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 151 cm
+Q
+q
+1 0 0 1 20 124 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JLabel\([String text], [Icon icon], [int horizontalAlignment]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (horizontalAlignment: SwingConstants.LEFT, CENTER, RIGHT, LEADING, TRAILING) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 124 cm
+Q
+q
+1 0 0 1 20 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (String getText\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the text string that the label displays.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Icon getIcon\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the graphic image \(glyph, icon\) that the label displays.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setIcon\(Icon icon\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Defines the icon this component will display.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setText\(String text\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Defines the single line of text this component will display.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 528.1339 cm
+Q
+q
+1 0 0 1 62.69291 498.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JProgressBar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 486.1339 cm
+Q
+q
+1 0 0 1 62.69291 360.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 120 cm
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JProgressBar\([int orient], [int min, int max]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (orient: SwingConstants.VERTICAL, HORIZONTAL) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 93 cm
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (double getPercentComplete\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the percent complete for the progress bar.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setString\(String s\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the value of the progress string.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setValue\(int n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the progress bar's current value to n.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 360.1339 cm
+Q
+q
+1 0 0 1 62.69291 330.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JRadioButton extends AbstractButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 318.1339 cm
+Q
+q
+1 0 0 1 62.69291 306.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JRadioButton\(String text, Icon icon, boolean selected\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 306.1339 cm
+Q
+q
+1 0 0 1 62.69291 276.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JSlider) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.1339 cm
+Q
+q
+1 0 0 1 62.69291 153.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 105 cm
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JSlider\([int orientation], [int min, int max], [int value]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 93 cm
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addChangeListener\(ChangeListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds a ChangeListener to the slider.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int getValue\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the slider's current value.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setValue\(int n\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the slider's current value to n.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 153.1339 cm
+Q
+q
+1 0 0 1 62.69291 153.1339 cm
+Q
+ 
+endstream
+endobj
+74 0 obj
+<<
+/Length 4092
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JSpinner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 574.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 105 cm
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JSpinner\(SpinnerModel model\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 93 cm
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addActionListener\(ActionListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an ActionListener to the widget.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Object getValue\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the current value of the model, typically this value is displayed by the editor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setValue\(Object value\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Changes current value of the model, typically this value is displayed by the editor.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 574.1339 cm
+Q
+q
+1 0 0 1 62.69291 544.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JSpinnerModel) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 532.1339 cm
+Q
+q
+1 0 0 1 62.69291 502.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SpinnerNumberModel\(int value, int minimum, int maximum, int stepSize\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (SpinnerNumberModel\(double value, double minimum, double maximum, double stepSize\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 502.1339 cm
+Q
+q
+1 0 0 1 62.69291 472.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JTextField) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 460.1339 cm
+Q
+q
+1 0 0 1 62.69291 349.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 105 cm
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JTextField\([String text], [int columns]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 93 cm
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void addActionListener\(ActionListener l\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Adds an ActionListener to the widget.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (String getText\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the text contained in this TextComponent.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setText\(String t\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the text of this TextComponent to the specified text.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 349.1339 cm
+Q
+q
+1 0 0 1 62.69291 319.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (JToggleButton extends AbstractButton) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 307.1339 cm
+Q
+q
+1 0 0 1 62.69291 295.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (JToggleButton\([String text], [Icon icon], [boolean selected]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 295.1339 cm
+Q
+q
+1 0 0 1 62.69291 295.1339 cm
+Q
+ 
+endstream
+endobj
+75 0 obj
+<<
+/Length 5784
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 694.1339 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Other Classes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 664.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Graphics2D extends Graphics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.1339 cm
+Q
+q
+1 0 0 1 62.69291 365.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 275 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Graphics create\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 260 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Creates a new Graphics object that is a copy of this Graphics object.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 244 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (boolean drawImage\(Image img, int x, int y, ImageObserver observer\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 229 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Draws as much of the specified image as is currently available.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 213 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void drawLine\(int x1, int y1, int x2, int y2\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 186 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.143775 Tw (Draws a line, using the current color, between the points \(x1, y1\) and \(x2, y2\) in this graphics) Tj T* 0 Tw (context's coordinate system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 170 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void drawRect\(int x, int y, int width, int height\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 155 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Draws the outline of the specified rectangle.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 139 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void drawString\(String str, int x, int y\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 124 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Draws the text given by the specified string, using this graphics context's current font and color.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 108 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setBackground\(Color color\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 93 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets the background color for the Graphics2D context.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 77 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setColor\(Color c\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets this graphics context's current color to the specified color.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void setFont\(Font font\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sets this graphics context's font to the specified font.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void translate\(int x, int y\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Translates the origin of the graphics context to the point \(x, y\) in the current coordinate system.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 365.1339 cm
+Q
+q
+1 0 0 1 62.69291 335.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Color) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 323.1339 cm
+Q
+q
+1 0 0 1 62.69291 208.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 109 cm
+Q
+q
+1 0 0 1 20 61 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Color\(float r, float g, float b, [float a]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Color\(int r, int g, int b, [int a]\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Color\(int rgb\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 61 cm
+Q
+q
+1 0 0 1 20 45 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int getRGB\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 30 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the RGB value representing the color in the default sRGB ColorModel.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.69713 Tw (Color BLACK, BLUE, CYAN, DARK_GRAY, GRAY, GREEN, LIGHT_GRAY, MAGENTA, ORANGE,) Tj T* 0 Tw (PINK, RED, WHITE, YELLOW) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 208.1339 cm
+Q
+q
+1 0 0 1 62.69291 178.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Dimension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 166.1339 cm
+Q
+q
+1 0 0 1 62.69291 117.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 43 cm
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Dimension\(int width, int height\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 31 cm
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int height, width) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Number of pixels in each direction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 117.1339 cm
+Q
+q
+1 0 0 1 62.69291 117.1339 cm
+Q
+ 
+endstream
+endobj
+76 0 obj
+<<
+/Length 4343
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 697.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (ImageIcon implements Icon) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 685.1339 cm
+Q
+q
+1 0 0 1 62.69291 673.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (ImageIcon\([String filename, [String description]]\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 673.1339 cm
+Q
+q
+1 0 0 1 62.69291 643.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Interface ActionListener) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 631.1339 cm
+Q
+q
+1 0 0 1 62.69291 604.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void actionPerformed\(ActionEvent e\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Invoked when an action occurs.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 604.1339 cm
+Q
+q
+1 0 0 1 62.69291 574.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (ActionEvent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 562.1339 cm
+Q
+q
+1 0 0 1 62.69291 492.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 58 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (String getActionCommand\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 43 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Returns the command string associated with this action.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 27 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int getModifiers\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.801727 Tw (Returns the bitwise OR of the modifier keys held down during this action event \(ALT_MASK,) Tj T* 0 Tw (CTRL_MASK, META_MASK, SHIFT_MASK\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 492.1339 cm
+Q
+q
+1 0 0 1 62.69291 462.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Interface ChangeListener) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 450.1339 cm
+Q
+q
+1 0 0 1 62.69291 423.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (void stateChanged\(ChangeEvent e\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Invoked when the target of the listener has changed its state.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 423.1339 cm
+Q
+q
+1 0 0 1 62.69291 393.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (ChangeEvent) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.1339 cm
+Q
+q
+1 0 0 1 62.69291 354.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Object getSource\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The object on which the Event initially occurred.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 354.1339 cm
+Q
+q
+1 0 0 1 62.69291 324.1339 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Rectangle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 312.1339 cm
+Q
+q
+1 0 0 1 62.69291 232.1339 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 74 cm
+Q
+q
+1 0 0 1 20 62 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Rectangle\([int x, int y], int width, int height\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 62 cm
+Q
+q
+1 0 0 1 20 46 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int height, width) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 31 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Number of pixels in each direction) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 20 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (int x, y) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Location on the Cartesian plane) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 232.1339 cm
+Q
+ 
+endstream
+endobj
+77 0 obj
+<<
+/Nums [ 0 78 0 R 1 79 0 R 2 80 0 R 3 81 0 R 4 82 0 R 
+  5 83 0 R 6 84 0 R 7 85 0 R 8 86 0 R 9 87 0 R ]
+>>
+endobj
+78 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+79 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+80 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+81 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+82 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+83 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+84 0 obj
+<<
+/S /D /St 7
+>>
+endobj
+85 0 obj
+<<
+/S /D /St 8
+>>
+endobj
+86 0 obj
+<<
+/S /D /St 9
+>>
+endobj
+87 0 obj
+<<
+/S /D /St 10
+>>
+endobj
+xref
+0 88
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000538 00000 n 
+0000000733 00000 n 
+0000000838 00000 n 
+0000001033 00000 n 
+0000001228 00000 n 
+0000001423 00000 n 
+0000001619 00000 n 
+0000001815 00000 n 
+0000002011 00000 n 
+0000002207 00000 n 
+0000002403 00000 n 
+0000002509 00000 n 
+0000002803 00000 n 
+0000002878 00000 n 
+0000003030 00000 n 
+0000003140 00000 n 
+0000003281 00000 n 
+0000003423 00000 n 
+0000003548 00000 n 
+0000003719 00000 n 
+0000003841 00000 n 
+0000003977 00000 n 
+0000004103 00000 n 
+0000004271 00000 n 
+0000004384 00000 n 
+0000004507 00000 n 
+0000004631 00000 n 
+0000004755 00000 n 
+0000004882 00000 n 
+0000005014 00000 n 
+0000005139 00000 n 
+0000005265 00000 n 
+0000005408 00000 n 
+0000005580 00000 n 
+0000005689 00000 n 
+0000005808 00000 n 
+0000005931 00000 n 
+0000006053 00000 n 
+0000006161 00000 n 
+0000006329 00000 n 
+0000006445 00000 n 
+0000006590 00000 n 
+0000006737 00000 n 
+0000006861 00000 n 
+0000006982 00000 n 
+0000007109 00000 n 
+0000007259 00000 n 
+0000007381 00000 n 
+0000007504 00000 n 
+0000007632 00000 n 
+0000007757 00000 n 
+0000007895 00000 n 
+0000008049 00000 n 
+0000008178 00000 n 
+0000008298 00000 n 
+0000008422 00000 n 
+0000008562 00000 n 
+0000008701 00000 n 
+0000008827 00000 n 
+0000008966 00000 n 
+0000009092 00000 n 
+0000009203 00000 n 
+0000009323 00000 n 
+0000014999 00000 n 
+0000020019 00000 n 
+0000025670 00000 n 
+0000032106 00000 n 
+0000035943 00000 n 
+0000041696 00000 n 
+0000047417 00000 n 
+0000051561 00000 n 
+0000057397 00000 n 
+0000061792 00000 n 
+0000061917 00000 n 
+0000061951 00000 n 
+0000061985 00000 n 
+0000062019 00000 n 
+0000062053 00000 n 
+0000062087 00000 n 
+0000062121 00000 n 
+0000062155 00000 n 
+0000062189 00000 n 
+0000062223 00000 n 
+trailer
+<<
+/ID 
+[<5cb9bd1efff4dc7389c49b684d9e3e7f><5cb9bd1efff4dc7389c49b684d9e3e7f>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 16 0 R
+/Root 15 0 R
+/Size 88
+>>
+startxref
+62258
+%%EOF

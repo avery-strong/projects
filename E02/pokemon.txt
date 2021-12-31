@@ -1,0 +1,47 @@
+/*
+MainWin
+	Layout
+		MenuBar
+			File
+				Open
+				New (Clears Data)
+				Save
+				Save As
+				Quit
+			Create
+			About
+		ToolBar
+			Home Icon (Clears Data)
+			Plus Icon
+			Minus Icon
+			About Icon
+
+		Data
+			Pokemon Icon
+				Clicking pokemon Icon starts a new game
+
+		About
+			https://icon-icons.com/icon/plus/152556
+			https://icon-icons.com/icon/minus-sm/152576
+			https://en.wikipedia.org/wiki/Pok%C3%A9mon_(video_game_series)
+
+Classes
+	* Pokemon
+		- Attributes
+		 	String name
+				For now the only attribut should be the name. I dont want to add a list of pokemon that I have caught.
+		- Functions
+			save
+			toString
+		* Monster (Subclass)
+			- Attributes
+				int count
+					Count just holds the number of trys for that particular shiny pokemon
+			- Functions
+				Decrement
+				Increment
+				save
+				toString
+
+
+*/
